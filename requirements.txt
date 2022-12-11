@@ -4,7 +4,7 @@ selenium
 cssselect
 requests
 PyMySql
-sqlalchemy
+sqlalchemy==1.3.10
 aiohttp
 fake_useragent
 recommonmark
