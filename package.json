@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "dependencies": {
-    "puppeteer": "^1.7.0"
+    "puppeteer": "^21.3.7"
   },
   "devDependencies": {},
   "scripts": {
